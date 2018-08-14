@@ -16,5 +16,6 @@ WIN_COMBINATIONS = [
   [2,4,6] #diagonal_RtoL_win
 ]
 
+
 def won?
 end
