@@ -30,6 +30,6 @@ def full?(board)
     index = "X" || index = "O"
   end
 end
-  
-  
+
+
 end
